@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-39b18bea","path":"/Dict.html","title":"数据字典","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1731568091000,"contributors":[{"name":"rain1020","email":"qinyu_1020@163.com","commits":1}]},"filePathRelative":"Dict.md"}');export{t as data};
