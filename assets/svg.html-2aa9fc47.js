@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d5286a24","path":"/svg.html","title":"svgIcon","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"案例","slug":"案例","link":"#案例","children":[]}],"git":{"updatedTime":1731568091000,"contributors":[{"name":"rain1020","email":"qinyu_1020@163.com","commits":1}]},"filePathRelative":"svg.md"}');export{t as data};
