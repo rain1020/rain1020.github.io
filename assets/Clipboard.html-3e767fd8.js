@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-b279ef48","path":"/Clipboard.html","title":"复制粘贴","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"案例","slug":"案例","link":"#案例","children":[]}],"git":{},"filePathRelative":"Clipboard.md"}');export{e as data};
