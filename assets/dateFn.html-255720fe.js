@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4c18e0ea","path":"/dateFn.html","title":"日期的格式化","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1731568091000,"contributors":[{"name":"rain1020","email":"qinyu_1020@163.com","commits":1}]},"filePathRelative":"dateFn.md"}');export{t as data};
