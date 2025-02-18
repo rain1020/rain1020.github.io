@@ -1,34 +1,4 @@
-import {
-  _ as e,
-  r as s,
-  o as l,
-  c,
-  a,
-  b as n,
-  d as t,
-  e as r,
-} from './app-d69e7a4d.js';
-const i = {},
-  u = n(
-    'h1',
-    { id: '编辑器', tabindex: '-1' },
-    [
-      n(
-        'a',
-        { class: 'header-anchor', href: '#编辑器', 'aria-hidden': 'true' },
-        '#',
-      ),
-      t(' 编辑器'),
-    ],
-    -1,
-  ),
-  k = {
-    href: 'https://rain120.github.io/athena/zh/slate/Introduction.html#why',
-    target: '_blank',
-    rel: 'noopener noreferrer',
-  },
-  d = r(
-    `<h4 id="节点数据结构" tabindex="-1"><a class="header-anchor" href="#节点数据结构" aria-hidden="true">#</a> 节点数据结构</h4><p>待制作...</p><h4 id="自定义扩展新功能" tabindex="-1"><a class="header-anchor" href="#自定义扩展新功能" aria-hidden="true">#</a> 自定义扩展新功能</h4><p>待制作...</p><h4 id="插件" tabindex="-1"><a class="header-anchor" href="#插件" aria-hidden="true">#</a> 插件</h4><p>待制作...</p><details class="custom-container details"><summary>点击查看代码</summary><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code>    <span class="token operator">&lt;</span>div style<span class="token operator">=</span><span class="token string">&quot;border: 1px solid #ccc&quot;</span><span class="token operator">&gt;</span>
+import{_ as e,r as s,o as l,c,a,b as n,d as t,e as r}from"./app-abf5995e.js";const i={},u=n("h1",{id:"编辑器",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#编辑器","aria-hidden":"true"},"#"),t(" 编辑器")],-1),k={href:"https://rain120.github.io/athena/zh/slate/Introduction.html#why",target:"_blank",rel:"noopener noreferrer"},d=r(`<h4 id="节点数据结构" tabindex="-1"><a class="header-anchor" href="#节点数据结构" aria-hidden="true">#</a> 节点数据结构</h4><p>待制作...</p><h4 id="自定义扩展新功能" tabindex="-1"><a class="header-anchor" href="#自定义扩展新功能" aria-hidden="true">#</a> 自定义扩展新功能</h4><p>待制作...</p><h4 id="插件" tabindex="-1"><a class="header-anchor" href="#插件" aria-hidden="true">#</a> 插件</h4><p>待制作...</p><details class="custom-container details"><summary>点击查看代码</summary><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code>    <span class="token operator">&lt;</span>div style<span class="token operator">=</span><span class="token string">&quot;border: 1px solid #ccc&quot;</span><span class="token operator">&gt;</span>
         <span class="token operator">&lt;</span><span class="token operator">!</span><span class="token operator">--</span> <span class="token operator">&lt;</span>Toolbar style<span class="token operator">=</span><span class="token string">&quot;border-bottom: 1px solid #ccc&quot;</span> <span class="token operator">:</span>editor<span class="token operator">=</span><span class="token string">&quot;editorRef&quot;</span> <span class="token operator">:</span>defaultConfig<span class="token operator">=</span><span class="token string">&quot;toolbarConfig&quot;</span>
             <span class="token operator">:</span>mode<span class="token operator">=</span><span class="token string">&quot;mode&quot;</span> <span class="token operator">/</span><span class="token operator">&gt;</span> <span class="token operator">--</span><span class="token operator">&gt;</span>
         <span class="token operator">&lt;</span><span class="token operator">!</span><span class="token operator">--</span> <span class="token operator">&lt;</span>Editor style<span class="token operator">=</span><span class="token string">&quot;height: 300px; overflow-y: hidden&quot;</span> v<span class="token operator">-</span>model<span class="token operator">=</span><span class="token string">&quot;valueHtml&quot;</span> <span class="token operator">:</span>defaultConfig<span class="token operator">=</span><span class="token string">&quot;editorConfig&quot;</span> <span class="token operator">:</span>mode<span class="token operator">=</span><span class="token string">&quot;mode&quot;</span>
@@ -89,31 +59,4 @@ const i = {},
     <span class="token keyword">const</span> editor <span class="token operator">=</span> editorRef<span class="token punctuation">.</span>value<span class="token punctuation">;</span>
     <span class="token keyword">if</span> <span class="token punctuation">(</span>editor <span class="token operator">==</span> <span class="token keyword">null</span><span class="token punctuation">)</span> <span class="token keyword">return</span><span class="token punctuation">;</span>
     editor<span class="token punctuation">.</span><span class="token function">destroy</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></details>`,
-    7,
-  );
-function v(m, b) {
-  const p = s('EditorDemo'),
-    o = s('ExternalLinkIcon');
-  return (
-    l(),
-    c('div', null, [
-      u,
-      a(p),
-      n('p', null, [
-        n('a', k, [
-          t(
-            'slate 官网链接(Slate (opens new window)是一个 完全 可定制的富文本编辑器框架)',
-          ),
-          a(o),
-        ]),
-      ]),
-      d,
-    ])
-  );
-}
-const y = e(i, [
-  ['render', v],
-  ['__file', 'Editor.html.vue'],
-]);
-export { y as default };
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></details>`,7);function v(m,b){const p=s("EditorDemo"),o=s("ExternalLinkIcon");return l(),c("div",null,[u,a(p),n("p",null,[n("a",k,[t("slate 官网链接(Slate (opens new window)是一个 完全 可定制的富文本编辑器框架)"),a(o)])]),d])}const y=e(i,[["render",v],["__file","Editor.html.vue"]]);export{y as default};
