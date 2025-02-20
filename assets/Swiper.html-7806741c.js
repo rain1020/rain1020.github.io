@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-24ad1ab0","path":"/Swiper.html","title":"走马灯","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1740041623000,"contributors":[{"name":"rain1020","email":"qinyu_1020@163.com","commits":1}]},"filePathRelative":"Swiper.md"}');export{t as data};
